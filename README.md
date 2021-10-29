@@ -27,10 +27,10 @@ _¡El programa puede cambiar sin previo aviso!_[^1]
 * Presentación del Curso
 * Breve Historia de la Astronomía
 
-### 14-10-2021: _La Esfera Celeste_
+### 14-10-2021: _Observación Astronómica 1_
 * La Esfera Celeste
 
-### 21-10-2021: _Observación Astronómica_
+### 21-10-2021: _Observación Astronómica 2_
 * Mapas y Objetos Celestes
 * Instrumentos Ópticos
 
