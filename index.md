@@ -1,4 +1,4 @@
-## Programa del Curso
+# Programa del Curso
 
 ## Sep. a dic. 2021 (Casal de Santa Catalina)
 
