@@ -1,4 +1,5 @@
-## Curso de Astronomía
+## Programa del Curso
+
 ## Sep. a dic. 2021 (Casal de Santa Catalina)
 
 ## Docente: [Ernesto Nicola](bio.md)
