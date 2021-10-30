@@ -1,4 +1,7 @@
-remote_theme: zivhub/monophase
+plugins:
+  - jekyll-remote-theme
+
+remote_theme: zivhub/monophase@main
 #remote_theme: pages-themes/primer
 #remote_theme: eecs485staff/primer-spec
 title: Curso de Astronomía 2021
