@@ -1,6 +1,6 @@
 # Programa del Curso
 
-## Sep. a dic. 2021 (Casal de Santa Catalina)
+## Sep. 07 a dic. 16 de 2021 (Casal de Santa Catalina)
 
 ## Docente: [Ernesto Nicola](bio.md)
 
