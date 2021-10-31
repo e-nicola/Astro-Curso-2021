@@ -64,6 +64,6 @@ _¡El programa puede cambiar sin previo aviso!_[^1]
 ### 16-12-2021: _Cosmología 2_
 * Historia del Universo
 
-## [Biblografía del curso](bibliografía.md)
+## [Bibliografía del curso](bibliografía.md)
 
 [^1]: página actualizada por última vez el: 2021-10-28
