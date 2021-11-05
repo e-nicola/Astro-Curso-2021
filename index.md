@@ -38,7 +38,7 @@ _¡El programa puede cambiar sin previo aviso!_[^1]
 
 ### 28-10-2021: _Sistema Solar 1_
 * Introducción al Sistema Solar
-* Planetas
+* Planetas y sus Lunas
 
 ### 04-11-2021: _Sistema Solar 2_
 * Asteroides, Cometas y Meteoros
