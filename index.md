@@ -22,10 +22,10 @@ El curso discutirá los siguientes temas:
 * Las clases serán todos los jueves de 19 a 21h
 * El curso empieza el 7 de oct. y termina el 16 de dic. 2021
 
-## Programa del curso 
+## Programa del curso[^1]
 _En este enlace hay está el [programa detallado del curso](programa.md)_
 
-_¡El programa puede cambiar sin previo aviso!_[^1]
+_¡El programa puede cambiar sin previo aviso!_
 
 ### 07-10-2021: _Presentación e Historia de la Astronomía_
 * Presentación del Curso
