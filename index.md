@@ -64,4 +64,4 @@ _¡El programa puede cambiar sin previo aviso!_[^1]
 
 ## [Bibliografía del curso](bibliografía.md)
 
-[^1]: página actualizada por última vez el: 2021-10-28
+[^1]: página actualizada por última vez el: 2021-11-05
