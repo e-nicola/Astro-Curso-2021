@@ -63,7 +63,9 @@
   * Asteroides y Meteoroides
     * Asteroides del cinturón principal
     * Objetos próximos a la Tierra (NEOs: Near Earth Objects)
-    * Meteoroides, Meteoros y Meteoritos
+    * Meteoroides
+    * Meteoros
+    * Meteoritos
   * Objetos Transneptunianos
     * Objetos del Cinturón de Kuiper
     * Objetos de la Nube de Oort
