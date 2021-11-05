@@ -22,7 +22,7 @@ El curso discutirá los siguientes temas:
 * Las clases serán todos los jueves de 19 a 21h
 * El curso empieza el 7 de oct. y termina el 16 de dic. 2021
 
-## Programa del curso[^1]
+## [Programa del curso](programa.md)[^1]
 _En este enlace hay está el [programa detallado del curso](programa.md)_
 
 _¡El programa puede cambiar sin previo aviso!_
