@@ -92,7 +92,7 @@
 ## 09-12-2021: _Cosmología 1_
 ### El Universo, de que está echo y su origen
 
-### 16-12-2021: _Cosmología 2_
+## 16-12-2021: _Cosmología 2_
 ### Historia del Universo
 
 [^1]: página actualizada por última vez el: 2021-11-05
