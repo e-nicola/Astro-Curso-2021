@@ -41,9 +41,7 @@ _¡El programa puede cambiar sin previo aviso!_[^1]
 * Planetas
 
 ### 04-11-2021: _Sistema Solar 2_
-* Asteroides 
-* Cometas
-* Meteoros
+* Asteroides, Cometas y Meteoros
 
 ### 11-11-2021: _Sistema Solar 3_
 * La Luna, nuestro Satélite
