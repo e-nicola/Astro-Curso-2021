@@ -23,7 +23,7 @@ El curso discutirá los siguientes temas:
 * El curso empieza el 7 de oct. y termina el 16 de dic. 2021
 
 ## [Programa del curso](programa.md)[^1]
-_A continuación encontrarás una versión resumida del programa del curso, en este enlace hay está el [programa detallado](programa.md).
+_A continuación encontrarás una versión resumida del programa del curso, en este enlace hay un [programa detallado](programa.md).
 ¡El programa puede cambiar sin previo aviso!_
 
 ### 07-10-2021: _Presentación e Historia de la Astronomía_
