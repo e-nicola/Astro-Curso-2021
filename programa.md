@@ -80,6 +80,7 @@
   * Relieve de la Luna
   * Formación y evolución temprana de la Luna
   * Nociones de geografía lunar
+  * Una introducción a la geología lunar
 
 ## _Sistema Solar 4_ (18-11-2021)
 * El Sol, nuestra Estrella
@@ -97,4 +98,4 @@
 ## _Cosmología 2_ (16-12-2021)
 * Historia del Universo
 
-[^1]: página actualizada por última vez el: 2021-11-05
+[^1]: página actualizada por última vez el: 2021-11-11
