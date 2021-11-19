@@ -76,7 +76,11 @@
 ## _Sistema Solar 3_ (11-11-2021)
 * La Luna, nuestro Satélite
   * Tamaño y distancia de la Luna
-  * Movimiento de la Luna: fases, mareas, libraciones y eclipses
+  * Movimiento de la Luna
+    * Fases
+    * Mareas
+    * Libraciones
+    * Eclipses
   * Relieve de la Luna
   * Formación y evolución temprana de la Luna
   * Nociones de geografía lunar
@@ -84,9 +88,25 @@
 
 ## _Sistema Solar 4_ (18-11-2021)
 * El Sol, nuestra Estrella
+  * Características del Sol
+  * Energía del Sol
+  * Evolución Solar: El Ciclo Vital del Sol
+    * Formación
+    * Evolución
+  * Anatomía del Sol
+    * Interior Solar: Núcleo y Zonas Radiativa y Convectiva
+    * Atmósfera Solar: Fotósfera, Cromósfera y Corona
+  * Manchas Solares y Zonas Activas
+    * Descripción de las Manchas Solares
+    * Variaciones de las Manchas Solares
+    * Astrofísica de las Manchas Solares y Zonas Activas
+  * Observación Solar
+    * Observando la Fotósfera con Luz Blanca
+    * Observando la Cromósfera en la banda de Hidrógeno-alfa
 
 ## _Astronomía Estelar_ (25-11-2021)
-* Estrellas y Objetos del Cielo Profundo
+* Estrellas, Nebulosas y Cúmulos Estelares
+
 
 ## _Astronomía Galáctica_ (02-12-2021:)
 * Vía Láctea, nuestra Galaxia
@@ -98,4 +118,4 @@
 ## _Cosmología 2_ (16-12-2021)
 * Historia del Universo
 
-[^1]: página actualizada por última vez el: 2021-11-11
+[^1]: página actualizada por última vez el: 2021-11-19
