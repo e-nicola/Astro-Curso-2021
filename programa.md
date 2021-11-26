@@ -105,8 +105,23 @@
     * Observando la Cromósfera en la banda de Hidrógeno-alfa
 
 ## _Astronomía Estelar_ (25-11-2021)
-* Estrellas, Nebulosas y Cúmulos Estelares
-
+* Estrellas
+  * Mecanismos Estelares
+    * Generación de Energía
+    * Balance Energético
+    * Composición
+  * Caracterización de las Estrellas
+    * Parámetros Principales
+    * Diagramas Hertzsprung-Russell
+    * Clasificación Estelar
+  * Evolución Estelar
+    * Estrellas Rojas
+    * Estrellas Amarillas
+    * Estrellas Blancas
+    * Estrellas Azules
+    * Síntesis
+* Cúmulos Estelares y Nebulosas
+  * 
 
 ## _Astronomía Galáctica_ (02-12-2021:)
 * Vía Láctea, nuestra Galaxia
