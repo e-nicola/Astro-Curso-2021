@@ -51,7 +51,8 @@ _A continuación encontrarás una versión resumida del programa del curso, en e
 * El Sol, nuestra Estrella
 
 ### 25-11-2021: _Astronomía Estelar_
-* Estrellas y Objetos del Cielo Profundo
+* Estrellas 
+* Cúmulos Estelares y Nebulosas
 
 ### 02-12-2021: _Astronomía Galáctica_
 * Vía Láctea, nuestra Galaxia
