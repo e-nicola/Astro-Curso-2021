@@ -121,7 +121,18 @@
     * Estrellas Azules
     * Síntesis
 * Cúmulos Estelares y Nebulosas
-  * 
+  * Clasificación de los Objetos del Cielo Profundo
+  * El Medio Interestelar
+  * Nubes de Polvo
+    * Nebulosas de Absorción
+    * Nebulosas de Reflexión
+  * Nubes de Gas
+    * Nebulosas de Emisión
+    * Nebulosas de Eyección: Nebulosas Planetarias y Remanentes de Supernovas
+  * Regiones de Formación Estelar
+    * Cúmulos Abiertos
+    * Asociaciones Estelares
+    * Cúmulos Globulares
 
 ## _Astronomía Galáctica_ (02-12-2021:)
 * Vía Láctea, nuestra Galaxia
