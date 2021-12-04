@@ -55,8 +55,7 @@ _A continuación encontrarás una versión resumida del programa del curso, en e
 * Cúmulos Estelares y Nebulosas
 
 ### 02-12-2021: _Astronomía Galáctica_
-* Vía Láctea, nuestra Galaxia
-* Galaxias
+* Vía Láctea y Galaxias
 
 ### 09-12-2021: _Cosmología 1_
 * El Universo, de que está echo y su origen
