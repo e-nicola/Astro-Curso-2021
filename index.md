@@ -65,4 +65,4 @@ _A continuación encontrarás una versión resumida del programa del curso, en e
 
 ## [Bibliografía del curso](bibliografía.md)
 
-[^1]: página actualizada por última vez el: 2021-11-26
+[^1]: página actualizada por última vez el: 2021-12-04
