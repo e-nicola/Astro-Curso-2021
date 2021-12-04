@@ -135,8 +135,20 @@
     * Cúmulos Globulares
 
 ## _Astronomía Galáctica_ (02-12-2021:)
-* Vía Láctea, nuestra Galaxia
-* Galaxias
+* Vía Láctea y Galaxias
+  * Vía Láctea
+    * La estructura de la Vía Láctea
+      * Disco Galáctico
+      * Bulbo Galáctico
+      * Halo Galáctico
+    * La geografía de la Vía Láctea
+      * Nombres de los brazos de la Vía Láctea
+      * La Vía Láctea en Coordenadas Galácticas
+      * Partes Visibles y Partes Ocultas de la Vía Láctea
+    * La Vía Láctea; de cerca a lejos
+    * De la Vía Láctea al Universo Observable
+    * Otras Galaxias: Clasificación
+  * Galaxias
 
 ## _Cosmología 1_ (09-12-2021:)
 * El Universo, de que está echo y su origen
