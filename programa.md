@@ -156,4 +156,4 @@
 ## _Cosmología 2_ (16-12-2021)
 * Historia del Universo
 
-[^1]: página actualizada por última vez el: 2021-11-26
+[^1]: página actualizada por última vez el: 2021-12-04
