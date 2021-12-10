@@ -58,11 +58,11 @@ _A continuación encontrarás una versión resumida del programa del curso, en e
 * Vía Láctea y Galaxias
 
 ### 09-12-2021: _Cosmología 1_
-* El Universo, de que está echo y su origen
+* El Universo: Composición y Evolución
 
 ### 16-12-2021: _Cosmología 2_
 * Historia del Universo
 
 ## [Bibliografía del curso](bibliografía.md)
 
-[^1]: página actualizada por última vez el: 2021-12-04
+[^1]: página actualizada por última vez el: 2021-12-10
