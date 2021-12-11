@@ -153,12 +153,20 @@
 ## _Cosmología 1_ (09-12-2021:)
 * El Universo: Composición y Evolución
   * Composición del Universo
-    * Motivación
-    * Partículas Elementales
-    * Origen de los Elementos
-  * Evolución del Universo
+  * Partículas Elementales y el Modelo Estándar
+    * Las Partículas Elementales
+    * El Modelo Estándar
+    * Las 4 Fuerzas Fundamentales de la Naturaleza
+    * La Masa de las Partículas Elementales y el Mecanismo de Higgs
+  * Origen de los Elementos
+    * La Composición Actual del Universo
+    * La Nucleosíntesis del Big Bang
+    * La Nucleosíntesis posterior al Big Bang
+  * Evolución del Universo y la Materia
+    * Evolución del Universo
+    * Evolución posterior al Big Bang de la Materia
 
 ## _Cosmología 2_ (16-12-2021)
 * Historia del Universo
 
-[^1]: página actualizada por última vez el: 2021-12-10
+[^1]: página actualizada por última vez el: 2021-12-11
