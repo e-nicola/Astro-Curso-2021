@@ -163,8 +163,6 @@
     * La Nucleosíntesis del Big Bang
     * La Nucleosíntesis posterior al Big Bang
   * Evolución del Universo y la Materia
-    * Evolución del Universo
-    * Evolución posterior al Big Bang de la Materia
 
 ## _Cosmología 2_ (16-12-2021)
 * Historia del Universo
