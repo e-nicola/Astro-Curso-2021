@@ -2,7 +2,7 @@
 
 ## Sep. 07 a dic. 16 de 2021 (Casal de Santa Catalina)
 
-## Docente: [Ernesto Nicola](bio.md)
+## Docente: [Ernesto Nicola](bio.md) ([AstroMallorca](https://astromallorca.wordpress.com/))
 
 ## Descripción del curso
 Curso de astronomía a nivel introductorio que hará un recorrido por las áreas más relevantes de esta ciencia. ¡En el curso no solo aprenderás a reconocer las constelaciones y los objetos más destacables del cielo, sino que también descubrirás cómo está formado y cómo funciona nuestro Universo! 
