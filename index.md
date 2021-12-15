@@ -1,6 +1,6 @@
 # Programa del Curso
 
-## Sep. 07 a dic. 16 de 2021 (Casal de Santa Catalina)
+## Sep. 07 a dic. 16 de 2021 ([Casal de Santa Catalina](https://casalsdebarri.cat/casals/cb-santa-catalina/))
 
 ## Docente: [Ernesto Nicola](bio.md) ([AstroMallorca](https://astromallorca.wordpress.com/))
 
