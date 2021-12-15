@@ -1,10 +1,7 @@
-# Programa del Curso
-
 ## Sep. 07 a dic. 16 de 2021 ([Casal de Santa Catalina](https://casalsdebarri.cat/casals/cb-santa-catalina/))
 [<img src="IMG/0_126643_1.png" width=200 align=center>](https://casalsdebarri.cat/casals/cb-santa-catalina/)
 [<img src="IMG/logo-astromallorca4.png" width=250 align=center>](https://astromallorca.wordpress.com/)
 ## Docente: [Ernesto Nicola](bio.md) ([AstroMallorca](https://astromallorca.wordpress.com/))
-
 ## Descripción del curso
 Curso de astronomía a nivel introductorio que hará un recorrido por las áreas más relevantes de esta ciencia. ¡En el curso no solo aprenderás a reconocer las constelaciones y los objetos más destacables del cielo, sino que también descubrirás cómo está formado y cómo funciona nuestro Universo! 
 ```
