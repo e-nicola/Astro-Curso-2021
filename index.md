@@ -59,8 +59,8 @@ _A continuación encontrarás una versión resumida del programa del curso, en e
 * El Universo: Composición y Evolución
 
 ### 16-12-2021: _Cosmología 2_
-* Historia del Universo
+* El Universo: Cosmología y Evolución del Universo
 
 ## [Bibliografía del curso](bibliografía.md)
 
-[^1]: página actualizada por última vez el: 2021-12-15
+[^1]: página actualizada por última vez el: 2021-12-16
