@@ -165,6 +165,20 @@
   * Evolución del Universo y la Materia
 
 ## _Cosmología 2_ (16-12-2021)
-* Historia del Universo
+* El Universo: Cosmología y Evolución del Universo
+  * Introducción Histórica a la Cosmología Física
+    * Cosmología anterior a Einstein: la Paradoja de Olbers
+    * Modelos Cosmológico Teóricos: Einstein y Lemaître
+    * Cosmología Experimental: Hubble y el Universo en Expansión
+    * Materia Oscura
+    * Radiación del Fondo Cósmico y la Recombinación
+    * Inflación Cósmica
+    * Energía Oscura y la Expansión Acelerada del Universo
+  * Evolución del Universo
+    * El Big Bang y el Universo en Expansión
+    * El Período Inflacionario
+    * La Nucleosíntesis y la Radiación del Fondo Cósmico
+    * La Era Oscura y la Formación de las primeras Estrellas y Galaxias
+    * Expansión Acelerada del Universo y el Futuro
 
-[^1]: página actualizada por última vez el: 2021-12-11
+[^1]: página actualizada por última vez el: 2021-12-16
