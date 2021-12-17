@@ -56,7 +56,7 @@ _A continuación encontrarás una versión resumida del programa del curso, en e
 * Vía Láctea y Galaxias
 
 ### 09-12-2021: _Cosmología 1_
-* El Universo: Composición y Evolución
+* El Universo: Composición
 
 ### 16-12-2021: _Cosmología 2_
 * El Universo: Cosmología y Evolución del Universo
