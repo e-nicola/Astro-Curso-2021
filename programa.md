@@ -151,7 +151,7 @@
   * Galaxias
 
 ## _Cosmología 1_ (09-12-2021:)
-* El Universo: Composición y Evolución
+* El Universo: Composición
   * Composición del Universo
   * Partículas Elementales y el Modelo Estándar
     * Las Partículas Elementales
@@ -162,7 +162,7 @@
     * La Composición Actual del Universo
     * La Nucleosíntesis del Big Bang
     * La Nucleosíntesis posterior al Big Bang
-  * Evolución del Universo y la Materia
+  * Evolución de la Materia en el Universo
 
 ## _Cosmología 2_ (16-12-2021)
 * El Universo: Cosmología y Evolución del Universo
