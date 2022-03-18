@@ -1,5 +1,5 @@
-[<img src="IMG/0_126643_1.png" width=200 align=center>](https://casalsdebarri.cat/casals/cb-santa-catalina/)
-[<img src="IMG/logo-astromallorca4.png" width=250 align=center>](https://astromallorca.wordpress.com/)
+[<img src="https://e-nicola.github.io/Astro-Curso-2021/IMG/0_126643_1.png" width=200 align=center>](https://casalsdebarri.cat/casals/cb-santa-catalina/)
+[<img src="https://e-nicola.github.io/Astro-Curso-2021/IMG/logo-astromallorca4.png" width=250 align=center>](https://astromallorca.wordpress.com/)
 ## Sep. 07 a dic. 16 de 2021 ([Casal de Santa Catalina](https://casalsdebarri.cat/casals/cb-santa-catalina/))
 ## Docente: [Ernesto Nicola](bio.md) ([AstroMallorca](https://astromallorca.wordpress.com/))
 ## Descripción del curso
