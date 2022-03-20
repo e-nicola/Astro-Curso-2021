@@ -25,41 +25,41 @@ _A continuación encontrarás una versión resumida del programa del curso, en e
 ¡El programa puede cambiar sin previo aviso!_
 
 ### 07-10-2021: _Presentación e Historia de la Astronomía_
-* Presentación del Curso
-* Breve Historia de la Astronomía
+* Presentación del Curso ([pdf](2021-10-07_Info_Curso_v1.pdf))
+* Breve Historia de la Astronomía ([pdf](2021-10-07_Historia_Astro_v2.pdf))
 
 ### 14-10-2021: _Observación Astronómica 1_
-* La Esfera Celeste
+* La Esfera Celeste ([pdf](2021-10-14_Esfera_Celeste_v3.pdf))
 
 ### 21-10-2021: _Observación Astronómica 2_
-* Mapas y Objetos Celestes
-* Instrumentos Ópticos
+* Mapas y Objetos Celestes ([pdf](2021-10-21_Mapas_y_Objetos_v2.pdf))
+* Instrumentos Ópticos ([pdf](2021-10-21_Instrumentos_v2.pdf))
 
 ### 28-10-2021: _Sistema Solar 1_
-* Introducción al Sistema Solar
-* Planetas y sus Lunas
+* Introducción al Sistema Solar ([pdf](2021-10-28_Sistema_Solar_v3.pdf))
+* Planetas y sus Lunas ([pdf](2021-10-28_Sistema_Solar_v3.pdf))
 
 ### 04-11-2021: _Sistema Solar 2_
-* Asteroides, Cometas y Meteoros
+* Asteroides, Cometas y Meteoros ([pdf](2021-11-04_Asteroides_y_Cometas_v3.pdf))
 
 ### 11-11-2021: _Sistema Solar 3_
-* La Luna, nuestro Satélite
+* La Luna, nuestro Satélite ([pdf](2021-11-11_Luna_v2.pdf))
 
 ### 18-11-2021: _Sistema Solar 4_
-* El Sol, nuestra Estrella
+* El Sol, nuestra Estrella ([pdf](2021-11-18_Sol_v2.pdf))
 
 ### 25-11-2021: _Astronomía Estelar_
-* Estrellas 
-* Cúmulos Estelares y Nebulosas
+* Estrellas  ([pdf](2021-11-25_Estrellas_v2.pdf))
+* Cúmulos Estelares y Nebulosas ([pdf](2021-11-25_DSOs_v1.pdf))
 
 ### 02-12-2021: _Astronomía Galáctica_
-* Vía Láctea y Galaxias
+* Vía Láctea y Galaxias ([pdf](2021-12-02_Galaxias_Via_Lactea_v1.pdf))
 
 ### 09-12-2021: _Cosmología 1_
-* El Universo: Composición
+* El Universo: Composición ([pdf](2021-12-09_Cosmologia1_v1.pdf))
 
 ### 16-12-2021: _Cosmología 2_
-* El Universo: Cosmología y Evolución del Universo
+* El Universo: Cosmología y Evolución del Universo ([pdf](2021-12-16_Cosmologia2_v1.pdf))
 
 ## [Bibliografía del curso](bibliografía.md)
 
