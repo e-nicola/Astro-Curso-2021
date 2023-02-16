@@ -1,11 +1,14 @@
 #plugins:
 #  - jekyll-remote-theme
+
 #remote_theme: zivhub/monophase@main
 remote_theme: pages-themes/primer
 #remote_theme: eecs485staff/primer-spec
 #remote_theme: riggraz/no-style-please
-title: Curso de Astronomía 2021 (4to trim.)
+
+title: Curso de Astronomía 2021 en Palma de Mallorca
 #description: A short description of your site's purpose
-#name: Ernesto Nicola
+name: Ernesto Nicola
+
 #github:
 #  private: true
